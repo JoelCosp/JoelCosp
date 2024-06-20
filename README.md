@@ -13,17 +13,14 @@
 
 <h2> Sobre mi:</h2>
 
-<div size='20px'>👀 Soy una persona responsable, trabajadora y comprometida con su trabajo, además, me encanta el trabajo en equipo y aprender de mis compañeros con tal de ampliar mis conocimientos.</div>
-
-- 🔭 I’m currently working on  Soy Estudiante
-  
-- 🌱 I’m currently learning Git, Java y GitHub
-  
-- 👯 I’m looking to collaborate on Proyectos
-  
-- 💬 Ask me about Sql, Java, C#, JavaScript
-  
-- ⚡ Fun fact: Me gustan los girasoles.
+<div size='20px'>
+    👀 Soy responsable, trabajador y comprometido con mi trabajo. Me encanta trabajar  
+    en equipo y aprender de mis compañeros con tal de ampliar mis conocimientos.
+</div>
+<br>
+<div size='20px'>
+    👀 En mi tiempo libre, me dedico a viajar, leer y desarrollar mis conocimientos.
+</div>
 
 <h2>Habilidades: </h2>
 <h3>· Lenguajes de programación: </h3>
@@ -51,9 +48,6 @@
 <img alt="Github" src="https://progress-bar.dev/100/?scale=100&title=Español&width=400&color=babaca&suffix=&nbsp;%&nbsp;(Nativo)" />
 <img alt="Github" src="https://progress-bar.dev/100/?scale=100&title=Catalan&width=400&color=babaca&suffix=&nbsp;%&nbsp;(Nativo)" />
 <img alt="Github" src="https://progress-bar.dev/75/?scale=100&title=Catalan&width=400&color=babaca&suffix=&nbsp;%" />
-
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <br>
 <br>
 <br>
@@ -61,26 +55,13 @@
 <br>
 <br>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Contacta conmigo: </h2>
 <a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/Aditya664'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
 <br>
 <br>
 <br>
-  
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
-
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-
 <br>
 
 
