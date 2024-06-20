@@ -48,24 +48,20 @@
 <img alt="Github" src="https://progress-bar.dev/100/?scale=100&title=Español&width=400&color=babaca&suffix=&nbsp;%&nbsp;(Nativo)" />
 <img alt="Github" src="https://progress-bar.dev/100/?scale=100&title=Catalan&width=400&color=babaca&suffix=&nbsp;%&nbsp;(Nativo)" />
 <img alt="Github" src="https://progress-bar.dev/75/?scale=100&title=Catalan&width=400&color=babaca&suffix=&nbsp;%" />
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 <h2> Contacta conmigo: </h2>
-<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/Aditya664'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<div align="left">
+    <a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width='32px' align="left" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png"/></a> 
+    <p>joelc456789@gmail.com</p>
+</div>
+<div align="left">
+    <a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width='32px' align="left" src="https://brand.infojobs.net/downloads/ij-logo_reduced/ij-logo_reduced.png"/></a>
+    <p>Perfil de InfoJobs</p>
+</div>
+<div align="left">
+    <a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width='32px' align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"/></a>
+    <p>Perfil de LinkedIn</p>
+</div>
 <br>
 <br>
 <br>
 <br>
-
-
------
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
-
-Last Edited on: 04/09/2021
