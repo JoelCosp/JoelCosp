@@ -1,27 +1,16 @@
-<p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
-</p>
-
 <h1> Hola, me llamo Joel! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
-
-
-
-
 <div size='20px'>Recién iniciado en el mundo del desarrollo web y el diseño gráfico. :smile:</div>
-
 <h2> Sobre mi:</h2>
-
 <div size='20px'>
-    👀 Soy responsable, trabajador y comprometido con mi trabajo. Me encanta trabajar  
+    🙋‍♂️ Soy responsable, trabajador y comprometido con mi trabajo. Me encanta trabajar  
     en equipo y aprender de mis compañeros con tal de ampliar mis conocimientos.
 </div>
 <br>
 <div size='20px'>
-    👀 En mi tiempo libre, me dedico a viajar, leer y desarrollar mis conocimientos.
+    ✍️ En mi tiempo libre, me dedico a viajar, leer y desarrollar mis conocimientos.
 </div>
-
 <h2>Habilidades: </h2>
 <h3>· Lenguajes de programación: </h3>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
@@ -54,7 +43,7 @@
     <p>joelc456789@gmail.com</p>
 </div>
 <div align="left">
-    <a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width='32px' align="left" src="https://brand.infojobs.net/downloads/ij-logo_reduced/ij-logo_reduced.png"/></a>
+    <a href="https://www.infojobs.net/candidate/cv/view/index.xhtml?dgv=6294714885106"> <img width='32px' align="left" src="https://brand.infojobs.net/downloads/ij-logo_reduced/ij-logo_reduced.png"/></a>
     <p>Perfil de InfoJobs</p>
 </div>
 <div align="left">
