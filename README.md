@@ -51,7 +51,7 @@
     <p>Perfil de LinkedIn</p>
 </div>
 
-<img src="images/cartellControlEsfinters.jpg" width="200">
+<!--<img src="images/cartellControlEsfinters.jpg" width="200">-->
 
 <br>
 <br>
