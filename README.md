@@ -50,6 +50,7 @@
     <a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width='32px' align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"/></a>
     <p>Perfil de LinkedIn</p>
 </div>
+![prueba](images/cartellControlEsfinters.jpg)
 <br>
 <br>
 <br>
